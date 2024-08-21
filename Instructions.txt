@@ -1,0 +1,4 @@
+Wrap Project inside a larger folder.
+--[LargerFolder]
+-[[EazyProd]]
+like this...
